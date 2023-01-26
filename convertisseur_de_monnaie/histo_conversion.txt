@@ -1,0 +1,10 @@
+1.0 euros -> None dollars
+1.0 euros -> None yen
+1.0 yen -> None euros
+2.0 dollars -> None euros
+1.0 euros -> None dollars
+1.0 euros -> None dollars
+1.0 euros -> None dollars
+1.0 euros -> None dollars
+1.0 euros -> None dollars
+1.0 euros -> 1.08 dollars
